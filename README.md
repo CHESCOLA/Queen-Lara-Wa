@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/GkLZFsD/QUEEN-LARA-BOT.png" width="300" height="300">
+  <img src="https://i.ibb.co/CP6d670/QUEEN-LARA-BOT.jpg" width="300" height="300">
   <h1>👸💎 QUEEN LARA BOT 💎👸</h1>
 </div>
 <p align="center">
